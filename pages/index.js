@@ -5,6 +5,7 @@
  *  (including web sites) or distributed to other students.
  *
  *  Name: Vinh Nhan | Student ID: 171452212 | Date: June 16, 2023
+ *  Live site: https://movie-a3.vercel.app/
  ********************************************************************************/
 
 import useSWR from 'swr';
