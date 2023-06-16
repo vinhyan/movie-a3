@@ -27,7 +27,7 @@ export default function About(props) {
           </p>
           <p>
             My current favourite movie is{' '}
-            <a href="/movies/The%20Matrix">The Matrix</a>
+            <Link href="/movies/The%20Matrix">The Matrix</Link>
           </p>
         </Card.Body>
         <MovieDetails movie={props.movie} />
