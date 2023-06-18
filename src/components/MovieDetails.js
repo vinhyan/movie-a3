@@ -7,7 +7,7 @@ export default function MovieDetails(props) {
         <Row>
           {props.movie?.poster ? (
             <Col md>
-              <image
+              <img
                 src={props.movie?.poster}
                 className="w-100"
                 alt={props.movie?.title}
